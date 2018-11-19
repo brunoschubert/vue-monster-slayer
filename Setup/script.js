@@ -14,7 +14,7 @@ new Vue({
             this.monsterHealth = 100;
         },
         attack: function() {
-            let max = 10;
+            let max = 0;
             let min = 3;
             let damage = Math.max(Math.floor(Math.random() * max) +1, min);
             this.monsterHealth -= damage;
