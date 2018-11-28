@@ -45,16 +45,6 @@
     background-color: #ffc0c1;
 }
 
-.log ul .player-heal {
-    color: green;
-    background-color: #B2DCB2;
-}
-
-.log ul .player-special {
-    color: white;
-    background-color: black;
-}
-
 button {
     font-size: 20px;
     background-color: #eee;
